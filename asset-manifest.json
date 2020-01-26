@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea3b1a5a.chunk.css",
+    "main.js": "/static/js/main.2c99c9a3.chunk.js",
+    "main.js.map": "/static/js/main.2c99c9a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4784d7de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4784d7de.js.map",
+    "static/js/2.806b848c.chunk.js": "/static/js/2.806b848c.chunk.js",
+    "static/js/2.806b848c.chunk.js.map": "/static/js/2.806b848c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6b100e8346c46f942fbde41c5180b238.js": "/precache-manifest.6b100e8346c46f942fbde41c5180b238.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ea3b1a5a.chunk.css.map": "/static/css/main.ea3b1a5a.chunk.css.map",
+    "static/js/2.806b848c.chunk.js.LICENSE": "/static/js/2.806b848c.chunk.js.LICENSE",
+    "static/media/SocialBottom.png": "/static/media/SocialBottom.b9a8f90e.png",
+    "static/media/branding_man.jpg": "/static/media/branding_man.b24bb1d0.jpg",
+    "static/media/choices-colour.svg": "/static/media/choices-colour.9389da72.svg",
+    "static/media/event.png": "/static/media/event.23554718.png",
+    "static/media/handshake-colour.svg": "/static/media/handshake-colour.a711c867.svg",
+    "static/media/onad.png": "/static/media/onad.bcba4c09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4784d7de.js",
+    "static/js/2.806b848c.chunk.js",
+    "static/css/main.ea3b1a5a.chunk.css",
+    "static/js/main.2c99c9a3.chunk.js"
+  ]
+}
